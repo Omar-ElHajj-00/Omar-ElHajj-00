@@ -5,7 +5,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id513544018?k=20&m=513544018&s=612x612&w=0&h=RGmXN_WJhDvq6Hiui1ypnCggPAokE_dDhFX0bmC6PsA=">
 
-- 🔭 I’m currently working on **Professional web projects**
 
 - 🌱 I’m currently learning **Full-stack Web development**
 
